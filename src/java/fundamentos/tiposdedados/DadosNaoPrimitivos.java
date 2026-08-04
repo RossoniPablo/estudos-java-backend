@@ -28,6 +28,6 @@ public class DadosNaoPrimitivos {
         //Podem receber null
             String nome2 = null;
         //São criados a partir de classes
-            //Pessoa2 pessoa2 = new Pessoa2();
+        //Pessoa2 pessoa2 = new Pessoa2();
     }
 }
