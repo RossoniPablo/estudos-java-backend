@@ -1,4 +1,4 @@
-package fundamentos.estruturasCodicionais;
+package fundamentos.estruturasCodicionais.exercicios;
 
 //Exercício
 //Quanto tenho que pagar de imposta na Olanda em 2020, baseado no meu salário
