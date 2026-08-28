@@ -1,6 +1,6 @@
-package poo.introducaoMetodos.sobreCargaMetodos.teste;
+package poo.sobreCargaMetodos.teste;
 
-import poo.introducaoMetodos.sobreCargaMetodos.Anime;
+import poo.sobreCargaMetodos.Anime;
 
 public class AnimeTeste01 {
     static void main(String[] args) {
