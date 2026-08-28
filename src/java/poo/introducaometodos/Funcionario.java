@@ -1,6 +1,4 @@
-package poo.introducaoMetodos;
-
-import fundamentos.arrays.Array;
+package poo.introducaometodos;
 
 public class Funcionario {
    private String nome;

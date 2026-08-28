@@ -1,6 +1,6 @@
-package poo.introducaoMetodos.teste;
+package poo.introducaometodos.teste;
 
-import poo.introducaoMetodos.Pessoa;
+import poo.introducaometodos.Pessoa;
 
 public class PessoaTeste01 {
     static void main(String[] args) {

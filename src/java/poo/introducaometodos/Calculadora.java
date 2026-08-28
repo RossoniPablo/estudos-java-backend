@@ -1,4 +1,4 @@
-package poo.introducaoMetodos;
+package poo.introducaometodos;
 
 public class Calculadora {
     //void quando não retorna nada, tem a saída mas não tem um retorno

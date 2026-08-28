@@ -1,7 +1,7 @@
-package poo.introducaoMetodos.teste;
+package poo.introducaometodos.teste;
 
-import poo.introducaoMetodos.Estudante;
-import poo.introducaoMetodos.ImpressoraEstudante;
+import poo.introducaometodos.Estudante;
+import poo.introducaometodos.ImpressoraEstudante;
 
 public class EstudanteTeste01 {
     public static void main(String[] args){

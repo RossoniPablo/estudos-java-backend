@@ -1,6 +1,6 @@
-package poo.introducaoMetodos.teste;
+package poo.introducaometodos.teste;
 
-import poo.introducaoMetodos.Calculadora;
+import poo.introducaometodos.Calculadora;
 
 public class CalculadoraTeste01 {
     public void main(String[] args) {

@@ -1,4 +1,4 @@
-package poo.sobreCargaMetodos;
+package poo.sobrecargametodos;
 
 public class Anime {
     private String nome;

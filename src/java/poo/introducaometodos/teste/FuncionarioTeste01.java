@@ -1,6 +1,6 @@
-package poo.introducaoMetodos.teste;
+package poo.introducaometodos.teste;
 
-import poo.introducaoMetodos.Funcionario;
+import poo.introducaometodos.Funcionario;
 
 public class FuncionarioTeste01 {
     public static void main(String[] args){

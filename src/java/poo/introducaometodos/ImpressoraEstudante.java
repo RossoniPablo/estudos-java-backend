@@ -1,4 +1,4 @@
-package poo.introducaoMetodos;
+package poo.introducaometodos;
 
 public class ImpressoraEstudante {
     public void imprime(Estudante estudante){

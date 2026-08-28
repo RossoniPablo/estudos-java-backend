@@ -1,4 +1,4 @@
-package poo.introducaoClasses;
+package poo.introducaoclasses;
 
 public class Carro {
     public String nome;

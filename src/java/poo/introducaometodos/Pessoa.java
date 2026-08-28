@@ -1,4 +1,4 @@
-package poo.introducaoMetodos;
+package poo.introducaometodos;
 
 public class Pessoa {
     private String nome;

@@ -1,4 +1,4 @@
-package poo.introducaoClasses;
+package poo.introducaoclasses;
 
 //Classe Estudante com seus atributos -> atributos representão a classe em si.
 public class Estudante {
