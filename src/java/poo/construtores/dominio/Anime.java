@@ -15,6 +15,12 @@ public class Anime {
         this.genero    = genero;
     }
 
+
+    //Construtor vazio, não precisa passar atributos na criação do objeto
+    //Sobre carga de construtor
+    public Anime(){}
+
+
     public void imprimir(){
         System.out.println(nome);
         System.out.println(tipo);
